@@ -6,7 +6,7 @@
 
 -Maya2017以降推奨
 
-##セットアップ
+## セットアップ
 
 [Maya](https://www.autodesk.co.jp/products/maya/overview)の公式ホームページからソフトをインストールしてください。
 
